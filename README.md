@@ -48,5 +48,3 @@ The grading rubrics shall have the following components:
 
 🚀 This repository will include **Verilog code**, **testbench results**, and **waveforms** for all challenges.
 ```
-
-Do you want me to save this as a **`README.md` file** and give you the download link?
