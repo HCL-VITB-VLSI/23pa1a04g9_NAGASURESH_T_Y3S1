@@ -107,8 +107,7 @@ Testbench validates the following:
 
 ### **Waveform**
 
-`Screenshot from 2025-11-28 15-12-52`
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b289c781-e090-4b10-b90b-25fc8b3b3568" />
 ---
 
 ## **Challenges**
