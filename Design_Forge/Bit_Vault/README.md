@@ -110,9 +110,7 @@ The simulation waveform demonstrates correct read/write functionality:
 * Memory contents change only under valid write conditions
 * No unintended overwrites or glitches observed
 
-```
-[ Insert your waveform image here ]
-```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1ee67aeb-4115-489e-b305-6e0e51c75019" />
 
 ---
 
