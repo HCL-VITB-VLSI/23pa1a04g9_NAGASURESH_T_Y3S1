@@ -117,7 +117,7 @@ The objective is to design an **FSM-based stopwatch controller** supporting:
 * Reset forces output to `00`
 
 📌 *Waveform Screenshot:*
-`Screenshot from 2025-11-28 14-44-59`
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ec43ac9f-643d-458c-95d0-2e016ef26064" />
 
 ---
 
