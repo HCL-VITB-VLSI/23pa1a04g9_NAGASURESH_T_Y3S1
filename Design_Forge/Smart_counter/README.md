@@ -90,9 +90,9 @@ The simulation waveform validates correct operation:
 * Output remains constant when enable = 0
 * Smooth and synchronous transitions across clock edges
 
-```
-[Insert your waveform image here]
-```
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b648c92e-de19-4f61-a55f-406c19b6bce3" />
+
 
 The waveform confirms the correct prioritization:
 **RESET ➜ LOAD ➜ ENABLE ➜ HOLD**
@@ -115,5 +115,4 @@ Simulation confirms stable and predictable output.
 
 ---
 
-Just tell me!
 
