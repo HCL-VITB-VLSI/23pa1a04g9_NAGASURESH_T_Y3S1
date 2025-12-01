@@ -142,9 +142,7 @@ Waveform illustrates:
 * Immediate output changes due to combinational design
 * Zero flag activation when output goes to 0
 
-```
-[ Insert waveform image here ]
-```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7dd57e72-02d7-458f-afbb-4c8d7a5e747c" />
 
 ---
 
