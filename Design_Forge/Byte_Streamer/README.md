@@ -125,9 +125,7 @@ The waveform shows:
 * Parallel output updating only after a complete byte
 * Stable output when shifting is disabled
 
-```
-[ Insert your waveform image here ]
-```
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/edba4381-4dd7-4500-8114-e697725ea624" />
 
 ---
 
