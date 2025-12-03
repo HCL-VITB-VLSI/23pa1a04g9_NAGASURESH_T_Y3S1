@@ -94,8 +94,7 @@ Functional verification demonstrates:
 * Clean transitions without intermediate glitches
 * Proper safe output for invalid modes
 
-*(Waveform placeholder: Screenshot from your simulation environment.)*
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/baf8aab9-f3e8-49ce-83ee-baf37109aa88" />
 ---
 
 ## **Results & Analysis**
