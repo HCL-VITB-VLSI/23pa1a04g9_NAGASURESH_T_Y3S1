@@ -117,12 +117,7 @@ A Verilog testbench generates clock, reset, and various request combinations. Ke
 
 ## **FUNCTIONAL VERIFICATION WAVEFORM**
 
-Use this format to attach your waveform image:
-
-```
-![Functional Verification – PriorityLock](./Screenshot_2025-12-01_PriorityLock.png)
-```
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/824ad76d-b7d7-4637-9414-f685d5be65c9" />
 ---
 
 ## **RESULTS & ANALYSIS**
