@@ -101,7 +101,7 @@ Testbench includes two independent clocks with different frequencies and asynchr
 ---
 
 ## **FUNCTIONAL VERIFICATION WAVEFORM**
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e8b7cf08-343d-4125-ab86-0f4877a55e1e" />
 
 
 
