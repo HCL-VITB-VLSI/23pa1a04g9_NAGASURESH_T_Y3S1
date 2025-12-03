@@ -39,5 +39,4 @@ ECE – Y3 S1
 ---
 
 
-Just tell me **“make for all 10”** and I’ll generate them.
 
