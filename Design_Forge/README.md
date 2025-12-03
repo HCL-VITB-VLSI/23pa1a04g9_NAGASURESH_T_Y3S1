@@ -16,7 +16,7 @@ Learners must submit a GitHub repository organized **challenge-wise** with separ
 
 | #      | Challenge Title | Description                                                 | Folder Link                     |
 | ------ | --------------- | ----------------------------------------------------------- | ------------------------------- |
-| **1**  | SmartCounter    | 8-bit counter with load, enable & async reset.              | [Go to Folder](./SmartCounter)  |
+| **1**  | SmartCounter    | 8-bit counter with load, enable & async reset.              | [SmartCounter](https://github.com/23pa1a04g9/23pa1a04g9_NAGASURESH_T_Y3S1/tree/main/Design_Forge/SmartCounter)  |
 | **2**  | BitVault        | 4×8 register file with write/read and overwrite-protection. | [Go to Folder](./BitVault)      |
 | **3**  | ByteStreamer    | 8-bit serial-to-parallel converter with 8-cycle output.     | [Go to Folder](./ByteStreamer)  |
 | **4**  | PriorityLock    | 4-request round-robin arbiter with rotating priority.       | [Go to Folder](./PriorityLock)  |
