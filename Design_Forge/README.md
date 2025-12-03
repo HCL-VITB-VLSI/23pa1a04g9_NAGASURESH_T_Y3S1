@@ -45,8 +45,8 @@ Design_Forge/
 
 Each folder contains:
 
-* `design.sv` / `.v`
-* `tb.sv` / `.v`
+* `design .v`
+* `tb`.v`
 * `README.md` (Design Report)
 * Waveforms / screenshots 
 
