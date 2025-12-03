@@ -110,12 +110,7 @@ A Verilog testbench generates clock, reset, and sequences of write/read operatio
 
 ## **FUNCTIONAL VERIFICATION WAVEFORM**
 
-Use this format to insert your waveform image (update filename):
-
-```
-![Functional Verification – RingBuffer](./Screenshot_2025-12-01_RingBuffer.png)
-```
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/655e187a-7539-4215-85f8-61f87d5feaae" />
 ---
 
 ## **RESULTS & ANALYSIS**
