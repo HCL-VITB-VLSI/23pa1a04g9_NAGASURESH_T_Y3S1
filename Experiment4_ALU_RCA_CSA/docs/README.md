@@ -1,89 +1,116 @@
 # 📄 Documentation
 
-This directory contains the documentation and technical analysis for **Experiment 4 – Racing the Ripple: ALU with Ripple Carry Adder (RCA) and Carry Select Adder (CSA)**.
+Welcome to the **Documentation** folder for **Experiment 4 – Racing the Ripple: ALU with Ripple Carry Adder (RCA) and Carry Select Adder (CSA)**.
 
-The documents provided here summarize the design methodology, implementation details, verification process, synthesis observations, and architectural trade-offs between the Ripple Carry Adder and Carry Select Adder based ALU implementations.
-
----
-
-## 📂 Contents
-
-### 📘 Short Written Analysis
-**File:** `Experiment4_Short_Written_Analysis.pdf`
-
-This document provides a concise engineering analysis (1–2 pages) covering:
-
-- Timing comparison between Ripple Carry Adder (RCA) and Carry Select Adder (CSA)
-- Area trade-offs of both architectures
-- Critical path discussion
-- Architectural insights
-- Lessons learned from selecting different adder architectures in digital VLSI design
+This directory contains the technical reports and engineering analysis prepared during the design, implementation, functional verification, synthesis, and timing analysis of the project.
 
 ---
 
-## 📊 Topics Covered
+# 📚 Documents
 
-### Timing Comparison
-
-- Comparison of timing performance under different clock constraints
-- Critical path analysis for RCA and CSA
-- Discussion of Worst Negative Slack (WNS)
-- Impact of carry propagation delay on maximum operating frequency
+| Document | Description |
+|----------|-------------|
+| **Project_Summary.pdf** | Executive summary of the project with direct links to the GitHub repository folders. |
+| **Experiment4_Short_Written_Analysis.pdf** | Engineering analysis discussing timing comparison, area trade-offs, and architectural insights. |
+| **Experiment4_Report.pdf** | Complete project report covering RTL implementation, functional verification, synthesis, static timing analysis, and conclusions. |
 
 ---
 
-### Area Trade-offs
+# 📖 Short Written Analysis
 
-- Comparison of total cell area
+The **Short Written Analysis** provides a concise engineering discussion comparing the Ripple Carry Adder (RCA) and Carry Select Adder (CSA) architectures used in the 16-bit ALU.
+
+The report focuses on the following aspects:
+
+## ⏱️ Timing Comparison
+
+- Comparison of timing performance between RCA and CSA
+- Critical path analysis
+- Carry propagation delay
+- Timing behavior under different clock constraints
+- Worst Negative Slack (WNS) discussion
+
+---
+
+## 📊 Area Trade-offs
+
+The analysis compares the hardware utilization of both architectures by discussing:
+
+- Total cell area
 - Combinational logic utilization
 - Flip-flop count
 - Hardware overhead introduced by the Carry Select Adder
 
 ---
 
-### Engineering Lessons Learned
+## 💡 Engineering Lessons Learned
 
-The report discusses several important VLSI design concepts including:
+This project highlights several important Digital VLSI Design concepts:
 
-- Speed versus area trade-offs
-- Why Ripple Carry Adders are compact but slower
-- How Carry Select Adders improve timing by reducing carry propagation delay
-- Selection of adder architecture based on application requirements
-- Scalability considerations for 32-bit and 64-bit ALU designs
+- Speed versus area trade-off
+- Advantages and limitations of Ripple Carry Adders
+- Performance improvements achieved using Carry Select Adders
+- Selection of adder architectures based on timing requirements
+- Scalability considerations for wider datapaths such as 32-bit and 64-bit ALUs
 
 ---
 
-## 📚 Purpose
+# 🎯 Purpose
 
 The documentation included in this folder is intended to:
 
-- Summarize the project outcomes
-- Explain the architectural decisions
-- Support the synthesis and timing analysis results
-- Provide technical documentation for project evaluation and future reference
+- Explain the project methodology
+- Summarize the implementation approach
+- Describe the verification process
+- Present synthesis and timing analysis observations
+- Document engineering decisions and design trade-offs
 
 ---
 
-## 🔗 Related Project Resources
+# 📂 Related Repository Structure
+
+```text
+Experiment4_ALU_RCA_CSA/
+│
+├── rtl/
+├── tb/
+├── synthesis_sta/
+├── waveforms/
+├── docs/
+│   ├── README.md
+│   ├── Project_Summary.pdf
+│   ├── Experiment4_Short_Written_Analysis.pdf
+│   └── Experiment4_Report.pdf
+│
+└── README.md
+```
+
+---
+
+# 🔗 Related Directories
 
 | Folder | Description |
-|---------|-------------|
-| `rtl/` | Verilog RTL source files |
-| `tb/` | Functional verification testbenches |
-| `waveforms/` | Simulation waveforms and logs |
-| `synthesis_sta/` | Synthesis reports and Static Timing Analysis |
-| `README.md` | Main project documentation |
+|--------|-------------|
+| **rtl/** | Verilog RTL source files |
+| **tb/** | Functional verification testbenches |
+| **waveforms/** | GTKWave screenshots and simulation logs |
+| **synthesis_sta/** | Synthesis scripts, STA reports, and comparison tables |
+| **README.md** | Main project documentation |
 
 ---
 
-## 📌 Experiment Summary
+# 📝 Conclusion
 
-This experiment demonstrates the practical trade-off between hardware area and timing performance in digital circuit design. The Ripple Carry Adder provides a simple and area-efficient implementation, whereas the Carry Select Adder achieves improved timing performance by performing speculative carry computations in parallel. The comparison illustrates the importance of selecting an appropriate adder architecture based on system performance requirements and design constraints.
+The documentation in this folder summarizes the complete implementation and evaluation of the 16-bit ALU using Ripple Carry Adder (RCA) and Carry Select Adder (CSA). The project demonstrates how different adder architectures influence timing performance, hardware utilization, and overall design efficiency through RTL implementation, functional verification, synthesis, and static timing analysis.
 
 ---
 
-**Experiment:** Racing the Ripple – ALU with Ripple Carry Adder (RCA) and Carry Select Adder (CSA)
+## 👨‍💻 Author
 
-**Course:** Digital VLSI Design
+**T. Naga Suresh**
 
-**Repository:** Experiment4_ALU_RCA_CSA
+**Project:** Experiment 4 – Racing the Ripple: ALU with Ripple Carry Adder (RCA) and Carry Select Adder (CSA)
+
+**Course:** Essentials of VLSI Testing & Verification -2
+
+**Academic Year:** 2026 - 2027
