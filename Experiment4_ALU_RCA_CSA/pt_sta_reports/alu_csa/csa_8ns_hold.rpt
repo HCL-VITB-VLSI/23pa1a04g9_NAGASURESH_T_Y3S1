@@ -1,0 +1,15 @@
+****************************************
+Report : timing
+	-path_type full
+	-delay_type min
+	-slack_lesser_than 0.00
+	-max_paths 20
+	-sort_by slack
+Design : alu_csa
+Version: U-2022.12-SP3
+Date   : Wed Jun 10 19:10:46 2026
+****************************************
+
+No paths with slack less than 0.00.
+
+1
